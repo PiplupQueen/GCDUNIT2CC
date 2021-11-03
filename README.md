@@ -20,3 +20,56 @@
 
 #### Physical Computing is using physical objects and interacting with them by programming them from a computer. For this project we used Arduino which is a easy electronic platform that includes tutroials to teach you how to use and interact with these objects. 
 
+# Research
+
+#### To get around our project I did some research and looked at references to get a greater understanding of creative computing. I looked at different projects but these are ones that have stood out to me. 
+
+### Digi-gxl
+
+#### xxxxx
+
+### Experiments with Google
+
+#### xxxxx
+
+### ASCII Art
+
+##### xxxxx
+
+# Physical Computing
+
+#### xxxxxxx
+
+## Reflection
+
+#### xxxxxxx
+
+# Arduino
+
+## Project 1: xxxx
+
+#### xxxxxx
+
+## Project 2: xxxxxx
+
+#### xxxxxxx
+
+## Project 3: Keyboard Instrument
+
+#### xxxxxxx
+
+## Reflection
+
+#### xxxxxxxx
+
+## Challenges and Difficulties
+
+#### xxxxxxxx
+
+## What I found interesting
+
+#### xxxxxxxx
+
+## Overview and Conclusion
+
+#### xxxxxx
