@@ -47,58 +47,45 @@
 #### [ASCII Art Archive](https://www.asciiart.eu/)
 #### [ASCII Art images](https://fsymbols.com/text-art/)
 
-░█████╗░░██████╗░█████╗░██╗██╗  ░█████╗░██████╗░████████╗
-██╔══██╗██╔════╝██╔══██╗██║██║  ██╔══██╗██╔══██╗╚══██╔══╝
-███████║╚█████╗░██║░░╚═╝██║██║  ███████║██████╔╝░░░██║░░░
-██╔══██║░╚═══██╗██║░░██╗██║██║  ██╔══██║██╔══██╗░░░██║░░░
-██║░░██║██████╔╝╚█████╔╝██║██║  ██║░░██║██║░░██║░░░██║░░░
-╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝╚═╝  ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░
+▄▀█ █▀ █▀▀ █ █   ▄▀█ █▀█ ▀█▀   █▀▀ ▀▄▀ ▄▀█ █▀▄▀█ █▀█ █░░ █▀▀ █▀
+█▀█ ▄█ █▄▄ █ █   █▀█ █▀▄ ░█░   ██▄ █░█ █▀█ █░▀░█ █▀▀ █▄▄ ██▄ ▄█
 
-███████╗██╗░░██╗░█████╗░███╗░░░███╗██████╗░██╗░░░░░███████╗░██████╗
-██╔════╝╚██╗██╔╝██╔══██╗████╗░████║██╔══██╗██║░░░░░██╔════╝██╔════╝
-█████╗░░░╚███╔╝░███████║██╔████╔██║██████╔╝██║░░░░░█████╗░░╚█████╗░
-██╔══╝░░░██╔██╗░██╔══██║██║╚██╔╝██║██╔═══╝░██║░░░░░██╔══╝░░░╚═══██╗
-███████╗██╔╝╚██╗██║░░██║██║░╚═╝░██║██║░░░░░███████╗███████╗██████╔╝
-╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░╚══════╝╚══════╝╚═════╝░
-
-´´´´´´´¶¶¶¶´´´´´´´´´´´´´´´´´´
-´´´´´´¶¶´´´´¶¶¶¶¶´´¶¶¶¶´¶¶¶¶´´
-´´´´´´¶´´´´´´´´´´¶¶¶¶´¶¶´´´´¶´
-´´´´´´¶´´´´´´´´´´¶´¶¶¶¶¶¶´´´¶´
-´´´´´¶´´´´´´´´´´¶¶¶¶¶´´´¶¶¶¶¶´
-´´´´¶´´´´´´´´´´´´´´´´¶¶¶¶¶¶¶¶´
-´´´¶´´´´´´´´´´´´´´´´´´´¶¶¶¶¶´´
-´¶¶¶´´´´´¶´´´´´´´´´´´´´´´´´¶´´
-´´´¶´´´´¶¶´´´´´´´´´´´´´´´´´¶´´
-´´´¶¶´´´´´´´´´´´´´´´´¶¶´´´´¶´´
-´´¶¶¶´´´´´´´´´¶¶¶´´´´¶¶´´´¶¶´´
-´´´´´¶¶´´´´´´´´´´´´´´´´´´¶¶¶´´
-´´´´´´´¶¶¶´´´´´´´´´´´´´¶¶¶´´´´
-´´´¶¶¶¶¶´¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶´´´´´´
-´´´¶´´´´¶¶¶¶¶´´´´¶¶¶¶´´´¶´´´´´
-´´´¶´´´´¶¶¶´¶¶¶¶¶¶¶¶´´´¶¶¶´´´´
-´´´¶¶¶¶¶¶¶¶¶¶¶¶¶´´¶¶¶¶¶´´´¶¶´´
-´´¶´´´´´´¶¶¶¶¶¶¶¶¶¶¶´´´´´´´¶´´
-´¶´´´´´´´´´¶¶¶¶¶¶¶¶´´´´´´´´¶´´
-´´¶´´´´´´´´¶¶¶¶¶¶¶¶´´´´´´´´¶´´
-´´¶¶´´´´´´´¶¶´´´´¶¶´´´´´´¶¶´´´
-´´´´¶¶¶¶¶¶¶´´´´´´´´¶¶¶¶¶¶´´´´´
-
-
-
-# Physical Computing
-
-#### xxxxxxx
-
-## Reflection
-
-#### xxxxxxx
+───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
+───█▒▒░░░░░░░░░▒▒█───
+────█░░█░░░░░█░░█────
+─▄▄──█░░░▀█▀░░░█──▄▄─
+█░░█─▀▄░░░░░░░▄▀─█░░█
 
 # Arduino
 
-## Project 1: xxxx
+#### Arduino is 
 
-#### xxxxxx
+# Physical Computing
+
+#### On Monday we were taught how to create a circuit that lit up a LED to convey an understanding of Arduino hardware. We watched a tutorial created by Arduino on how to light up the LED and followed along. [Arduino Tutorial](https://www.youtube.com/playlist?list=PLT6rF_I5kknMP26rGOy8bDwZs3wbniwU9) By completing the first circuit I was able to gain a sense of how this project is going to go and what I would need to research. As I got home I went onto the Arduino website and started doing the different online projects they had. 
+
+#### [Arduino Tinkercard Lessons](https://www.tinkercad.com/learn/project-gallery;collectionId=OMOZACHJ9IR8LRE)
+
+## Project 1: Blink an LED With Digital Output
+
+#### This is a replica of what we did in person. I wanted to try it out again digitally to start getting the hang of how it would be like working with Arduino digitally and to see if the difference is large and if it's easier. This project is just to turn on a LED light however the difference is that instead of doing it physically you would have to code it to turn it on. I added a 500ms pause everytime it would turn on and off so it would go off automatically in a steady pace. 
+
+![Screenshot 2021-11-04 094156](https://user-images.githubusercontent.com/15625385/140243171-db949827-a5f0-46b5-b8ab-a0b2b4193ab7.png)
+
+![Screenshot 2021-11-04 094133](https://user-images.githubusercontent.com/15625385/140243181-873a1c22-a3dc-4b77-bf4f-6556e2d92148.png)
+
+`void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(500); // Wait for 500 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(500); // Wait for 500 millisecond(s)
+}`
 
 ## Project 2: xxxxxx
 
