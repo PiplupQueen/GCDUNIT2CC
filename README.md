@@ -32,15 +32,59 @@
 
 #### Digi-gxl is a community including womxn, intersex, trans folk and non-binary people that specialises in digital design such as 3D and XR known as extended reality. The platform acts as a agencey that supports networks and under represented creative computing artists to be seen. [Digi-gxl's Instagram](https://www.instagram.com/digi.gxl/?hl=en)
 
-#### ![Digi-gxl's Instagram posts](
+#### ![Digi-gxl Instagram posts](https://user-images.githubusercontent.com/15625385/140234904-f10dd157-09df-4aa7-891c-82ed915fdb90.png)
 
 ### Experiments with Google
 
-#### xxxxx
+#### Experiments with Google is a collection with several open-sources experiments that help us find a balance with technology. It inspires designers to consider the actual wellbeing in their projects that they make. The open-sourced code allows a good base and guide to help designers to try out and reach to new ideas. [Experiments with Google](https://experiments.withgoogle.com/collection/digitalwellbeing) 
+
+#### ![Digital Wellbeing](https://user-images.githubusercontent.com/15625385/140236667-e2e9d845-c2c3-481b-9bc2-8a8776180f85.png)
 
 ### ASCII Art
 
-##### xxxxx
+##### ASCII Art also known as American Standard Code for Information Interchange Art is a graphic design technique that consists pictures pieced together by 95 printable characters. It can be created by any text editor and and is often used with free-form languages. Free-from languages is a language that can be positioned on any line and still be valid.
+
+#### [ASCII Art Archive](https://www.asciiart.eu/)
+#### [ASCII Art images](https://fsymbols.com/text-art/)
+
+░█████╗░░██████╗░█████╗░██╗██╗  ░█████╗░██████╗░████████╗
+██╔══██╗██╔════╝██╔══██╗██║██║  ██╔══██╗██╔══██╗╚══██╔══╝
+███████║╚█████╗░██║░░╚═╝██║██║  ███████║██████╔╝░░░██║░░░
+██╔══██║░╚═══██╗██║░░██╗██║██║  ██╔══██║██╔══██╗░░░██║░░░
+██║░░██║██████╔╝╚█████╔╝██║██║  ██║░░██║██║░░██║░░░██║░░░
+╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝╚═╝  ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░
+
+███████╗██╗░░██╗░█████╗░███╗░░░███╗██████╗░██╗░░░░░███████╗░██████╗
+██╔════╝╚██╗██╔╝██╔══██╗████╗░████║██╔══██╗██║░░░░░██╔════╝██╔════╝
+█████╗░░░╚███╔╝░███████║██╔████╔██║██████╔╝██║░░░░░█████╗░░╚█████╗░
+██╔══╝░░░██╔██╗░██╔══██║██║╚██╔╝██║██╔═══╝░██║░░░░░██╔══╝░░░╚═══██╗
+███████╗██╔╝╚██╗██║░░██║██║░╚═╝░██║██║░░░░░███████╗███████╗██████╔╝
+╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░╚══════╝╚══════╝╚═════╝░
+
+´´´´´´´¶¶¶¶´´´´´´´´´´´´´´´´´´
+´´´´´´¶¶´´´´¶¶¶¶¶´´¶¶¶¶´¶¶¶¶´´
+´´´´´´¶´´´´´´´´´´¶¶¶¶´¶¶´´´´¶´
+´´´´´´¶´´´´´´´´´´¶´¶¶¶¶¶¶´´´¶´
+´´´´´¶´´´´´´´´´´¶¶¶¶¶´´´¶¶¶¶¶´
+´´´´¶´´´´´´´´´´´´´´´´¶¶¶¶¶¶¶¶´
+´´´¶´´´´´´´´´´´´´´´´´´´¶¶¶¶¶´´
+´¶¶¶´´´´´¶´´´´´´´´´´´´´´´´´¶´´
+´´´¶´´´´¶¶´´´´´´´´´´´´´´´´´¶´´
+´´´¶¶´´´´´´´´´´´´´´´´¶¶´´´´¶´´
+´´¶¶¶´´´´´´´´´¶¶¶´´´´¶¶´´´¶¶´´
+´´´´´¶¶´´´´´´´´´´´´´´´´´´¶¶¶´´
+´´´´´´´¶¶¶´´´´´´´´´´´´´¶¶¶´´´´
+´´´¶¶¶¶¶´¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶´´´´´´
+´´´¶´´´´¶¶¶¶¶´´´´¶¶¶¶´´´¶´´´´´
+´´´¶´´´´¶¶¶´¶¶¶¶¶¶¶¶´´´¶¶¶´´´´
+´´´¶¶¶¶¶¶¶¶¶¶¶¶¶´´¶¶¶¶¶´´´¶¶´´
+´´¶´´´´´´¶¶¶¶¶¶¶¶¶¶¶´´´´´´´¶´´
+´¶´´´´´´´´´¶¶¶¶¶¶¶¶´´´´´´´´¶´´
+´´¶´´´´´´´´¶¶¶¶¶¶¶¶´´´´´´´´¶´´
+´´¶¶´´´´´´´¶¶´´´´¶¶´´´´´´¶¶´´´
+´´´´¶¶¶¶¶¶¶´´´´´´´´¶¶¶¶¶¶´´´´´
+
+
 
 # Physical Computing
 
