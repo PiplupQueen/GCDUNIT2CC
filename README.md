@@ -81,20 +81,65 @@
 
 ![image](https://user-images.githubusercontent.com/15625385/140243653-137d2d8f-9778-4f88-a52a-163bca680348.png)
 
+## Project 2: Multiple LEDs
 
-## Project 2: xxxxxx
+#### I wanted to further my understanding but still keep it basic which is why I tried the multiple LED Arduino board. It had the similar concept as the first but a bit more code was put into it. I was introduced on how to add a variable which was quite interesting. 
 
-#### xxxxxxx
+![image](https://user-images.githubusercontent.com/15625385/140244360-0e198c1d-9f45-43e9-8aca-ee9ffd237bff.png)
+
+![image](https://user-images.githubusercontent.com/15625385/140244386-3bbbd10d-361d-4a50-a204-bc458adeebb2.png)
+
+![image](https://user-images.githubusercontent.com/15625385/140244470-c4970c9f-66de-478f-be08-f98bb1f439f0.png)
 
 ## Project 3: Keyboard Instrument
 
-#### xxxxxxx
+#### Finally I wanted to further strengthen my experience with Arduino board so I set up a keyboard instrument that plays 4 notes with different frequencies. I learned about resistor ladders and what they're used for. I really enjoyed this process and set up the frequencies to be the four notes in Mary Had A Little Lamb so I would be able to play it like a piano. 
+
+![image](https://user-images.githubusercontent.com/15625385/140244649-4b3520d3-795d-4f6a-b02c-b75fa8b8bbe0.png)
+
+![image](https://user-images.githubusercontent.com/15625385/140244786-21802f10-4c16-427e-a2a0-bfcced37a120.png)
+
+### Resistor Ladders
+
+#### A resistor ladder is an electrical circuit made from repeating units of resistors.
+
+### Instructions
+
+1. Prepare the breadboard by connecting 5V to the power rail and GND to the ground rail;
+
+2. Place the piezo buzzer from on the top left half of the breadboard. Connect the top piezo buzzer to a ground rail and the botoom to the PWM 8. 
+
+![image](https://user-images.githubusercontent.com/15625385/140254930-0c0bcec1-3804-44b7-845f-a969fde78290.png)
+
+3. Place 4 buttons on the breadboard, across the center gap, leaving 1 socket between each button. Connect button 1 directly to the 5V rail. Connect the left terminals of the second, third, fourth switches to the 5V rail through resistors using a 220-ohm, 10-kilohm x2 and 1-megohm resistor in that order.
+
+4. Connect the buttons right terminals with wires. Connect the right terminal of button 1 to analog pin A0. Connect the right terminal to button 4 to ground using a 10 k-ohm resistor. 
+
+### Coding Instructions
+1. Create a sequence of arrays of frequencies and input it into the code
+
+![image](https://user-images.githubusercontent.com/15625385/140277698-5ae71c57-c5db-4bd9-89f5-8fc8da58f829.png)
+
+2. Begin serial communication with the setup function
+
+![image](https://user-images.githubusercontent.com/15625385/140277750-984ffee3-9c6a-4ca9-8d5e-4b77819eda2c.png)
+
+3. Read and Print the analog value with the loop function
+
+![image](https://user-images.githubusercontent.com/15625385/140277804-2134a517-1ce4-461d-881b-1336fb82a04d.png)
+
+4. Determine which note to play 
+
+![image](https://user-images.githubusercontent.com/15625385/140277971-83314e1d-7873-4c90-8814-5d16a4665b9e.png)
+
+5. When to stop
+
+![image](https://user-images.githubusercontent.com/15625385/140278090-f74e78fc-4eae-4ed1-aec8-31a5b9d06e1e.png)
+
+
+## [PDF NOTES TAKEN OF ARDUINO LESSONS](https://drive.google.com/file/d/1ud8ge8LpM3Ob6JsWaQB9073Jh08Q-kLm/view?usp=sharing)
 
 ## Reflection
-
-#### xxxxxxxx
-
-## Challenges and Difficulties
 
 #### xxxxxxxx
 
