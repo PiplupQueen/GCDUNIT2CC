@@ -1,4 +1,8 @@
-# **GCD UNIT 2 CREATIVE COMPUTING PROJECT**
+# 
+███████████████████████████████████████████████████████████████████████████████████████████████████████▀█
+█─▄▄▄─█▄─▄▄▀█▄─▄▄─██▀▄─██─▄─▄─█▄─▄█▄─█─▄█▄─▄▄─███─▄▄▄─█─▄▄─█▄─▀█▀─▄█▄─▄▄─█▄─██─▄█─▄─▄─█▄─▄█▄─▀█▄─▄█─▄▄▄▄█
+█─███▀██─▄─▄██─▄█▀██─▀─████─████─███▄▀▄███─▄█▀███─███▀█─██─██─█▄█─███─▄▄▄██─██─████─████─███─█▄▀─██─██▄─█
+▀▄▄▄▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▀▀▀▄▀▀▀▄▄▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▀▄▄▄▀▄▄▄▀▀▀▀▄▄▄▄▀▀▀▄▄▄▀▀▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀
 
 ## What is READ.ME?
 
@@ -142,7 +146,13 @@ https://user-images.githubusercontent.com/15625385/140439769-f31eac74-389b-4ff2-
 
 ## [DOWNLOAD TO VIEW](https://github.com/PiplupQueen/GCDUNIT2CC/files/7479784/CIRCUIT.pdf)
 
-## Reflection
+## 
+██████╗░███████╗███████╗██╗░░░░░███████╗░█████╗░████████╗██╗░█████╗░███╗░░██╗
+██╔══██╗██╔════╝██╔════╝██║░░░░░██╔════╝██╔══██╗╚══██╔══╝██║██╔══██╗████╗░██║
+██████╔╝█████╗░░█████╗░░██║░░░░░█████╗░░██║░░╚═╝░░░██║░░░██║██║░░██║██╔██╗██║
+██╔══██╗██╔══╝░░██╔══╝░░██║░░░░░██╔══╝░░██║░░██╗░░░██║░░░██║██║░░██║██║╚████║
+██║░░██║███████╗██║░░░░░███████╗███████╗╚█████╔╝░░░██║░░░██║╚█████╔╝██║░╚███║
+╚═╝░░╚═╝╚══════╝╚═╝░░░░░╚══════╝╚══════╝░╚════╝░░░░╚═╝░░░╚═╝░╚════╝░╚═╝░░╚══╝
 
 #### For being a beginner with creative computing and having zero knowledge at the start of the project I believe that I have learned a large amount based on the topic given the time given. I enjoyed working and learning the digital Arduino simulator as I was able to go back and read at a pace I wanted to read. It also allowed me to write down notes and read what they had to say and implement them to notes as if I was watching a video and working on the physical board I would have to play the video over and over just to hear what the person had to say as I may not have caught what the person said. I was also quite excited to learn this project as I have learned a little bit about HTML and Java when I was younger but mostly forgot many things about it and wished I continued working and learning on it more. I thought this would have been a great opportunity for me to revisit this topic and allow me to learn things that I wanted to learn ages ago. After working on this unit it was very interesting to actually get to the centre of what our electronics are made with which are the circuits. It was interesting to understand that even at a time of modernity and filled with electronics, many of us haven't reached the deep end of electronics and learn or play with the circuits within it.
 
