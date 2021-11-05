@@ -140,7 +140,7 @@ https://user-images.githubusercontent.com/15625385/140439769-f31eac74-389b-4ff2-
 
 ## [PDF NOTES TAKEN OF ARDUINO LESSONS](https://drive.google.com/file/d/1ud8ge8LpM3Ob6JsWaQB9073Jh08Q-kLm/view?usp=sharing)
 
-##[CIRCUIT.pdf](https://github.com/PiplupQueen/GCDUNIT2CC/files/7479784/CIRCUIT.pdf)
+## [DOWNLOAD TO VIEW](https://github.com/PiplupQueen/GCDUNIT2CC/files/7479784/CIRCUIT.pdf)
 
 ## Reflection
 
