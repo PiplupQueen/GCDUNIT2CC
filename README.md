@@ -129,16 +129,14 @@ https://user-images.githubusercontent.com/15625385/140439769-f31eac74-389b-4ff2-
 3. Read and Print the analog value with the loop function
 
 <img src="https://user-images.githubusercontent.com/15625385/140277804-2134a517-1ce4-461d-881b-1336fb82a04d.png" width ="400" height = "300"/>
-![image](https://user-images.githubusercontent.com/15625385/140277804-2134a517-1ce4-461d-881b-1336fb82a04d.png)
 
 4. Determine which note to play 
  
 <img src="https://user-images.githubusercontent.com/15625385/140277971-83314e1d-7873-4c90-8814-5d16a4665b9e.png" width ="400" height = "300"/>
-![image](https://user-images.githubusercontent.com/15625385/140277971-83314e1d-7873-4c90-8814-5d16a4665b9e.png)
 
 5. When to stop
+
 <img src="https://user-images.githubusercontent.com/15625385/140278090-f74e78fc-4eae-4ed1-aec8-31a5b9d06e1e.png" width ="400" height = "300"/>
-![image](https://user-images.githubusercontent.com/15625385/140278090-f74e78fc-4eae-4ed1-aec8-31a5b9d06e1e.png)
 
 ## [PDF NOTES TAKEN OF ARDUINO LESSONS](https://drive.google.com/file/d/1ud8ge8LpM3Ob6JsWaQB9073Jh08Q-kLm/view?usp=sharing)
 
