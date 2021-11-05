@@ -93,7 +93,7 @@
 
 ## Project 3: Keyboard Instrument
 
-#### Finally I wanted to further strengthen my experience with Arduino board so I set up a keyboard instrument that plays 4 notes with different frequencies. I learned about resistor ladders and what they're used for. I really enjoyed this process and set up the frequencies to be the four notes in Mary Had A Little Lamb so I would be able to play it like a piano. 
+#### Finally I wanted to further strengthen my experience with Arduino board so I set up a keyboard instrument that plays 4 notes with different frequencies. I learned about resistor ladders and what they're used for. I set up the frequencies to be the four notes in Mary Had A Little Lamb so I would be able to play it like a piano. This was one of my favourite projects I tried out whith.
 
 ![image](https://user-images.githubusercontent.com/15625385/140244649-4b3520d3-795d-4f6a-b02c-b75fa8b8bbe0.png)
 
