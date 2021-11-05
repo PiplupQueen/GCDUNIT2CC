@@ -63,7 +63,7 @@
 
 # Arduino
 
-#### Arduino is 
+#### Arduino is an open-source software and hardware company that includes user-friendly projects and community that designs and manufactures sing board microcontrollers and kits for building digital devices.
 
 # Physical Computing
 
@@ -98,6 +98,8 @@
 ![image](https://user-images.githubusercontent.com/15625385/140244649-4b3520d3-795d-4f6a-b02c-b75fa8b8bbe0.png)
 
 ![image](https://user-images.githubusercontent.com/15625385/140244786-21802f10-4c16-427e-a2a0-bfcced37a120.png)
+
+https://user-images.githubusercontent.com/15625385/140439769-f31eac74-389b-4ff2-9aa4-e631e506d853.mov
 
 ### Resistor Ladders
 
@@ -135,7 +137,6 @@
 5. When to stop
 
 ![image](https://user-images.githubusercontent.com/15625385/140278090-f74e78fc-4eae-4ed1-aec8-31a5b9d06e1e.png)
-
 
 ## [PDF NOTES TAKEN OF ARDUINO LESSONS](https://drive.google.com/file/d/1ud8ge8LpM3Ob6JsWaQB9073Jh08Q-kLm/view?usp=sharing)
 
