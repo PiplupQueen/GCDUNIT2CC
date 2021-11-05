@@ -117,6 +117,35 @@ void loop()
 
 ![image](https://user-images.githubusercontent.com/15625385/140244386-3bbbd10d-361d-4a50-a204-bc458adeebb2.png)
 
+```
+int animationSpeed = 0;
+
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(12, OUTPUT);
+  pinMode(11, OUTPUT);
+}
+
+void loop()
+{
+  animationSpeed = 1000;
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(animationSpeed); // Wait for animationSpeed millisecond (s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(animationSpeed); // Wait for animationSpeed millisecond (s)
+  digitalWrite(12, HIGH);
+  delay(animationSpeed); // Wait for animationSpeed millisecond (s)
+  digitalWrite(12, LOW);
+  delay(animationSpeed); // Wait for animationSpeed millisecond (s)
+  digitalWrite(11, HIGH);
+  delay(animationSpeed); // Wait for animationSpeed millisecond (s)
+  digitalWrite(11, LOW);
+  delay(animationSpeed); // Wait for animationSpeed millisecond (s)
+}
+
+```
+
 ![image](https://user-images.githubusercontent.com/15625385/140244470-c4970c9f-66de-478f-be08-f98bb1f439f0.png)
 
 ## Project 3: Keyboard Instrument
@@ -124,6 +153,33 @@ void loop()
 #### Finally I wanted to further strengthen my experience with Arduino board so I set up a keyboard instrument that plays 4 notes with different frequencies. I learned about resistor ladders and what they're used for. I set up the frequencies to be the four notes in Mary Had A Little Lamb so I would be able to play it like a piano. This was one of my favourite projects I tried out with.
 
 ![image](https://user-images.githubusercontent.com/15625385/140244649-4b3520d3-795d-4f6a-b02c-b75fa8b8bbe0.png)
+
+```
+int notes [] = {523, 587, 659, 784);
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop(){
+  int keyVal = analogRead(A0);
+  Serial.println(keyVal);
+  
+  if(keyVal ==1023) {
+      tone(8, notes[0]);
+  } else if(keyVal >= 990 && keyVal <=1010){
+      tone(8, notes[1]);
+  } else if(keyVal >= 505 && keyVal <=515){
+      tone(8, notes[2]);
+  } else if(keyVal >= 5 && keyVal <=10){
+      tone(8, notes[3]);
+}
+
+  else{
+      noTone(8);
+  }
+}
+```
 
 ![image](https://user-images.githubusercontent.com/15625385/140244786-21802f10-4c16-427e-a2a0-bfcced37a120.png)
 
