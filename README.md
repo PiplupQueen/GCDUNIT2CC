@@ -101,9 +101,9 @@ void setup()
 void loop()
 {
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(500); // Wait for 500 millisecond (s)
+  delay(500); 
   digitalWrite(LED_BUILTIN, LOW);
-  delay(500); // Wait for 500 millisecond (s)
+  delay(500); 
 }
 ```
 
